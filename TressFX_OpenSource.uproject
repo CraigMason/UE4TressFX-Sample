@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C1DE79F4-49F4-6F96-AF18-0AAFFA4A303D}",
+	"Category": "",
+	"Description": "",
+	"Enterprise": true,
+	"Plugins": [
+		{
+			"Name": "TressFX",
+			"Enabled": true
+		}
+	]
+}
